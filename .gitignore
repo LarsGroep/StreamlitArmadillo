@@ -4,3 +4,10 @@ __pycache__/
 .env
 *.rar
 ~$*
+.venv/
+__pycache__/
+*.pyc
+# NDA: nooit LOFI-bedrijfsdata committen
+Datalofi*.csv
+*lofi*.csv
+*LOFI*.csv
